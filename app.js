@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
-const data = require('./student')
-const port = process.env.port || 3000
+const data = require('./student.json')
+const port = process.env.PORT || 3000
 
 app.get('/student', (req, res) => {
     res.send(data);
