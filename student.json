@@ -1,0 +1,17 @@
+{
+    "student1": {
+        "name": "Hongly",
+        "age": "34",
+        "job": "Sience Student"
+    },
+    "student2": {
+        "name": "MeyMey",
+        "age": "21",
+        "job": "Sport Student"
+    },
+    "student3": {
+        "name": "Sheata",
+        "age": "22",
+        "job": "Literal Student"
+    }
+}
